@@ -1,6 +1,6 @@
 # ML/DL_projects
 Various mini projects in the machine and deep learning fields using python. 
-All the projects will be uploaded with jupyter notebook and a full explanation of the code.
+All the projects will be uploaded with jupyter notebook or Google Colab notebook 
 
 ## Project #1: Detection of Covid19 patients using chest X-ray (Tensorflow and keras libraries)
 In this project I used Google Colab notebook for its ease of use and beacuse I dont own an Nvidia GPU (Tensorflow supports only Nvidia GPUs)
