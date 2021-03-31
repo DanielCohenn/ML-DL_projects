@@ -2,7 +2,9 @@
 Various mini projects in the machine and deep learning fields using python. 
 All the projects will be uploaded with jupyter notebook and a full explanation of the code.
 
-## Project #1: Benign or Malignant tumor
+## Project #1: Benign or Malignant tumor (with sklearn library)
 In this project I built a machine learning model using SVM algorithm with a polynomial kernel for the prevention of underfitting a data with multi dimensional 
 features that can not be represented in a linear way.
-* First after downloading the dataset to our local machine we saparate the dataset to 2 different pandas dataframe for features and lables  
+* First after downloading the dataset to our local machine we saparate the dataset to 2 different pandas dataframe for features and labels. 
+* Second we visualize our features and preprocessed our data and end up with numpy array of features and labels as well as 0.2 ratio of test and train data.
+* Third we built our model using SVC with polynomial kernel and trained our model on the training data and tested it on the test data.
