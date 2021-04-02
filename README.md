@@ -2,8 +2,9 @@
 Various mini projects in the machine and deep learning fields using python. 
 All the projects will be uploaded with jupyter notebook or Google Colab notebook 
 
-## Project #1: Detection of Covid19 patients using chest X-ray (Tensorflow and keras libraries)
-In this project I used Google Colab notebook for its ease of use and beacuse I dont own an Nvidia GPU (Tensorflow supports only Nvidia GPUs)
+## Project #1: Detection of Pneumonia in patients using chest X-ray (Tensorflow and keras libraries)
+In this project I used Google Colab notebook for its ease of use and beacuse I do not own an Nvidia GPU (Tensorflow supports only Nvidia GPUs),
+I downloaded the data to Google Colab enviroment using kaggle library and kaggle api token.
 ## Project #2: Benign or Malignant tumor (with sklearn library)
 In this project I built a machine learning model using SVM algorithm with a polynomial kernel for the prevention of underfitting a data with multi dimensional 
 features that can not be represented in a linear way.
