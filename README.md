@@ -2,7 +2,7 @@
 Various mini projects in the machine and deep learning fields using python. 
 All the projects will be uploaded with jupyter notebook or Google Colab notebook 
 
-## Project #1: Detection of Pneumonia in patients using chest X-ray (Tensorflow and keras)
+## Project #1: Detection of Pneumonia in patients using X-ray images
 In this project I used Google Colab notebook for its ease of use and beacuse I do not own an Nvidia GPU (Tensorflow supports only Nvidia GPUs),
 I downloaded the data to Google Colab enviroment using kaggle library and kaggle api token.
 ## Project #2: Benign or Malignant tumor (with sklearn library)
