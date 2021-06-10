@@ -5,6 +5,9 @@ All the projects will be uploaded with jupyter notebook or Google Colab notebook
 ## Project #1: Detection of Pneumonia in patients using X-ray images
 In this project I used Google Colab notebook for its ease of use and beacuse I do not own an Nvidia GPU (Tensorflow supports only Nvidia GPUs),
 I downloaded the data to Google Colab enviroment using kaggle library and kaggle api token.
+### Set-up phase:
+1. please follow and exexcute all the commands in part 1 for uploading kaggle dataset to google colab enviroment.
+2. make sure to downlaod kaggle.jason token api from kaggle website (second row) and upload it to google colab.
 ## Project #2: Benign or Malignant tumor (with sklearn library)
 In this project I built a machine learning model using SVM algorithm with a polynomial kernel for the prevention of underfitting a data with multi dimensional 
 features that can not be represented in a linear way.
