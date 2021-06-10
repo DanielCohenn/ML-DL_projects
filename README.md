@@ -11,7 +11,7 @@ I downloaded the data to Google Colab enviroment using kaggle library and kaggle
 ### Notes:
 1. For checking if our model is overfitting or underfitting the data we ploted Loss curve and Accuracy curve.
 ## Project #2: Benign or Malignant tumor (with sklearn library)
-In this small project I built a machine learning calssifier using SVM algorithm with a polynomial kernel for the prevention of underfitting a data with multi dimensional 
+In this small project I built a machine learning classifier using SVM algorithm with a polynomial kernel for the prevention of underfitting a data with multi dimensional 
 features that can not be represented in a linear way.
 * First after downloading the dataset to our local machine we saparate the dataset to 2 different pandas dataframe for features and labels. 
 * Second we visualize our features and preprocessed our data and end up with numpy array of features and labels as well as 0.2 ratio of test and train data.
