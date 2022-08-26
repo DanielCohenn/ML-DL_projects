@@ -5,7 +5,14 @@ Various mini projects in the machine and deep learning fields using python.
 All the projects will be uploaded with jupyter notebook or Google Colab notebook 
 
 
-## Project #1: Detecting pneumonia part 1
+## Project #1: Generating Faces Using Deep Convolutional GAN
+
+In this project we will use the DCGAN architecture with the CelebA dataset containing images of celeb faces.
+
+And we will generate new images of faces. 
+
+
+## Project #2: Detecting pneumonia part 1
 
 ### Detection of Pneumonia in patients using X-ray images
 
@@ -23,7 +30,7 @@ I downloaded the data to Google Colab enviroment using kaggle library and kaggle
 1. For checking if our model is overfitting or underfitting the data we ploted Loss curve and Accuracy curve.
 
 
-## Project #2: Detecting pneumonia part 2 (testing different model architectures and data augmentation)
+## Project #3: Detecting pneumonia part 2 (testing different model architectures and data augmentation)
 
 ### Detection of Pneumonia in patients using X-ray images 
 
@@ -32,14 +39,14 @@ In this project we will use data augmentation and different model architectures.
 For evaluation of model preformance we are using Loss and Accuracy curves as well as confusion matrix with precision and recall.
 
 
-## Project #3: Detecting pneumonia part 3 (transfer learning)
+## Project #4: Detecting pneumonia part 3 (transfer learning)
 
 ### Detection of Pneumonia in patients using X-ray images 
 
 In this project we will use transfer learning with VGG16 and RESNET50 with trainable weights.
 
 
-## Project #4: Benign or Malignant tumor (with sklearn library)
+## Project #5: Benign or Malignant tumor (with sklearn library)
 
 In this small project I built a machine learning classifier using SVM algorithm with a polynomial kernel for the prevention of underfitting a data with 
 
